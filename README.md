@@ -1,37 +1,11 @@
-# Scrabble Challenge
+# Welcome to the Scrabble challenge (javascript)!
 
-Welcome to the Scrabble challenge!
-
-## Learning Objectives
-- Build a simple program using functions, loops, and flow control
-- Use `git` & GitHub to commit work and open a Pull Request
-
-## Instructions
-
-1. Fork this repository and then:
-```sh
-$ git clone https://github.com/<YOUR GITHUB USERNAME>/pre-academy-scrabble-challenge.git && cd pre-academy-scrabble-challenge
-$ npm install # installs dependencies listed in package.json
-```
-2. Run the tests from your project root directory. There should be a lot of failures to begin with. You can run your test suite in a few ways:
-```sh
-$ npm test
-# or
-$ jasmine
-# or run jasmine directly
-$ ./node_modules/jasmine/bin/jasmine.js
-```
-3. In GitHub, [open a Pull Request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) from your forked repository to the challenge repository.
-4. Implement the criteria below locally and [push your code](https://docs.github.com/en/github/managing-files-in-a-repository/adding-a-file-to-a-repository-using-the-command-line) to your repository! Every push to a branch that has an open Pull Request will update it automatically with your changes.
-5. Check the status of the automated tests on the Pull Request - update your implementation if needed.
-
-# Task
+## Task
 
 Given a word, compute the scrabble score for that word.
 
 ##### Letter Values
 
-You'll need these:
 
 | Letter                        | Value  |
 | ----                          |  ----  |
