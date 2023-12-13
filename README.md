@@ -1,4 +1,4 @@
-# Welcome to the Scrabble challenge (javascript)!
+# Welcome to the Scrabble challenge (javascript)
 
 ## Task
 
@@ -62,9 +62,3 @@ let scrabble = new Scrabble('OXYPHENBUTAZONE')
 scrabble.score() // => 41
 ```
 
-## Extended Acceptance Criteria
-> Each `Scrabble` method should be no more than 5 lines and contain no more than 5 operations.
-
-> You can play a double or a triple letter.
-
-> You can play a double or a triple word.
